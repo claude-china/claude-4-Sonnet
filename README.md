@@ -1,6 +1,6 @@
 # **【持续更新】国内如何使用Claude 4 克劳德 的6种可行方式，Claude 4 Sonnet及Claude 3.7 Sonnet**
 
-> 更新日期：2025-05-23
+> 更新日期：2025-07-20
 
 **Claude**由Anthropic团队研发，是当前非常受欢迎的先进语言模型，擅长自然语言理解、内容生成和解决复杂问题。本文将为你解答国内如何高效使用Claude（克劳德），并归纳了国内环境下可行的六种方法。值得注意的是，**Claude 3.7**版本被认为是现阶段表现极为强劲的模型之一。
 
@@ -40,7 +40,7 @@ Claude具备许多优点，吸引了越来越多用户关注：
 | 名称 | 提供功能 | 网址 |
 | --- | --- | --- |
 | **[一下 AI](https://xsimplechat.com)** | 配备Claude 3.7 Sonnet、GPT 4o 绘图、PPT 生成、GPT-4.0/4.1 & mini、Gemini 2.5 Pro、AI 翻译、联网搜索等多项功能 | [前往体验](https://xsimplechat.com) |
-| **[蓝鲸 AI](https://chat.chatgpt-chinese.com/)** | 汇集Claude 3、GPT 4.0、Grok多种模型，性能稳定 | [点此进入](https://chat.chatgpt-chinese.com/) |
+| **[蓝鲸 AI](https://chat.lanjingai.org/)** | 汇集Claude 3、GPT 4.0、Grok多种模型，性能稳定 | [点此进入](https://chat.lanjingai.org/) |
 | **[深智 AI](https://deepseek-free.org/)** | Claude及DeepSeek满血版功能完全开放 | [立即使用](https://deepseek-free.org/) |
 
 **优点**：
